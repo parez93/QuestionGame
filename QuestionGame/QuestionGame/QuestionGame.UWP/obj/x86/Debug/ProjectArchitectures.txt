@@ -1,0 +1,2 @@
+C:\Users\federicoparezzan\Desktop\QuestionGame\QuestionGame\QuestionGame.UWP\QuestionGame.UWP.csproj;x86
+C:\Users\federicoparezzan\Desktop\QuestionGame\QuestionGame\QuestionGame\QuestionGame.csproj;neutral
